@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MilkyMilkShack
-- 👀 I’m interested in Cyber Security and Software Engineering
+- 👀 I’m interested in Cyber Security, Software Engineering and Game Development
 - 🌱 I’m currently learning Python, Java, C++ and Lua
 - 💞️ I’m looking to collaborate on any cool projects!
 <!---
